@@ -1,2 +1,6 @@
 # fluent-hospital-demo
-C# ORM example using Fluent NHibernate! https://github.com/nhibernate/fluent-nhibernate
+
+## Dependencies via NuGet
+
+- FluentNHibernate - Version 3.1.0
+- Npgsql - 6.0.4
